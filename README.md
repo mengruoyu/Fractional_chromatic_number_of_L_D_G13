@@ -1,4 +1,4 @@
-# Rate_calculations_of_G_13_and_L_D_G13
+# Rate_calculation_of_G_13_and_L_D_G13
 
 Numerical calculation used in paper: Quantum advantage in zero-error function computation with side information (link https://arxiv.org/abs/2402.01549)
 
